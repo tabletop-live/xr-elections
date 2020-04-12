@@ -23,6 +23,19 @@ h2{
  background-color: #D1E8CC;
 }
 
-.main-content{
- padding: 0px;
+.about {
+  color: black;
+  text-align: center;
+ 
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
