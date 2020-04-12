@@ -1,5 +1,8 @@
-@import "{{ site.theme }}";
+---
+---
 
-h1 {
-	color: red;
+@import 'jekyll-theme-cayman';
+
+h1{
+ color: red; 
 }
