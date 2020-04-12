@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 
 @import "{{ site.theme }}";
+
+h1{
+  color: black;
+}
