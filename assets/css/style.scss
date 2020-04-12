@@ -19,19 +19,23 @@ h2{
  color: #B4587B; 
 }
 
-.site-footer {
-  padding-top: 0rem;
-  margin-top: 0rem;
-  padding: 0rem;
-  margin: 0rem;
-}
-
 .accent{
  background-color: #D1E8CC;
 }
 
-.main-content{
- padding: 0px;
- margin: 0px;
- width: 100%;
+.about {
+  color: black;
+  text-align: center;
+ 
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
