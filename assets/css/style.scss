@@ -3,6 +3,26 @@
 
 @import 'jekyll-theme-cayman';
 
+///////// COLORS //////////
+// YELLOW = #F7EB4C
+// PURPLE = #B4587B
+// GREEN = #67B556
+// LIGHT GREEN = #D1E8CC
+
+
+
 h1{
  color: red; 
+}
+
+h2{
+ color: #B4587B; 
+}
+
+.accent{
+ background-color: #D1E8CC;
+}
+
+.main-content{
+ padding: 0px;
 }
