@@ -25,6 +25,15 @@ h6 {
 
 
 //classes
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+
 .page-header {
   color: #B4587B;
   text-align: center;
