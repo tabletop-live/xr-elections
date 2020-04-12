@@ -10,7 +10,10 @@
 // LIGHT GREEN = #D1E8CC
 
 
+//variables
+$section-headings-color: #B4587B !default;
 
+//sections
 h1{
  color: #B4587B; 
 }
@@ -19,6 +22,7 @@ h2{
  color: #B4587B; 
 }
 
+//classes
 .page-header {
   color: #B4587B;
   text-align: center;
