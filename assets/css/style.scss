@@ -40,6 +40,14 @@ p {
   width: 100%;
 }
 
+.flex-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: top;
+  width: 100%;
+}
+
 
 .page-header {
   color: #B4587B;
