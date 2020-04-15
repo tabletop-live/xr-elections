@@ -13,6 +13,9 @@
 //variables
 $section-headings-color: #B4587B !default;
 
+h1 {
+  font-family: 'Suez One', serif;
+}
 //sections
 h1,
 h2,
@@ -25,6 +28,7 @@ h6 {
 
 p {
   font-size: 0.9rem;
+  font-family: 'Raleway', sans-serif;
 }
 
 //classes
